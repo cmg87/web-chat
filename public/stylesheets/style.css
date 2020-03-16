@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#chat-box{
+  height: 125px;
+  width: 400px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  border: black 1px;
+}
